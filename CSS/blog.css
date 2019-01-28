@@ -1,0 +1,20 @@
+h1 {
+    color: maroon;
+    margin: 100px 500px 25px ; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    border-bottom-style: solid ;
+    border-bottom-width: 4.5px ;
+    border-color: maroon;
+
+}
+p {
+    margin: 10px 275px 25px ;
+    font-family: 'Times New Roman', Times, serif ;
+    border-style: solid ;
+    border-color: maroon ; 
+}
+
+mountain {
+    shape-image-threshold: 
+
+}
